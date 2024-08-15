@@ -41,3 +41,5 @@
 0.0.0.0 friv.com
 0.0.0.0 playhop.com
 0.0.0.0 play.google.com
+0.0.0.0 garena.com
+0.0.0.0 *.garena.com
