@@ -10,6 +10,8 @@
 0.0.0.0 osu.ppy.sh
 0.0.0.0 poki.com
 0.0.0.0 www.crazygames.com
+0.0.0.0 api.crazygames.com
+0.0.0.0 *.crazygames.com
 0.0.0.0 www.crazygames.co.id
 0.0.0.0 aplays.org
 0.0.0.0 jackbox.tv
@@ -38,3 +40,4 @@
 0.0.0.0 roblox.com
 0.0.0.0 friv.com
 0.0.0.0 playhop.com
+0.0.0.0 play.google.com
