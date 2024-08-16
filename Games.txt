@@ -45,3 +45,4 @@
 0.0.0.0 itch.io
 0.0.0.0 itch.io
 0.0.0.0 itch.zone
+0.0.0.0 orteil.dashnet.org
