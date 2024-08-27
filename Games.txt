@@ -47,3 +47,7 @@
 0.0.0.0 itch.zone
 0.0.0.0 orteil.dashnet.org
 0.0.0.0 mountjustin.github.io
+0.0.0.0 playsaurus.com
+0.0.0.0 app-cdn.playsaurus.com
+0.0.0.0 playsaurusstats.com
+0.0.0.0 serve.app.playsaurus.com
