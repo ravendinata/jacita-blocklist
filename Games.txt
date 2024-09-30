@@ -51,3 +51,9 @@
 0.0.0.0 app-cdn.playsaurus.com
 0.0.0.0 playsaurusstats.com
 0.0.0.0 serve.app.playsaurus.com
+0.0.0.0 aiming.pro
+0.0.0.0 aimtrainer.io
+0.0.0.0 3daimtrainer.com
+0.0.0.0 aimtrainerpro.com
+0.0.0.0 aim400kg.com
+0.0.0.0 clickcounter.io
