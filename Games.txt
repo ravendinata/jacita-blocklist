@@ -59,3 +59,4 @@
 0.0.0.0 clickcounter.io
 0.0.0.0 nealfun.com
 0.0.0.0 neal.fun
+0.0.0.0 granny-online.org
