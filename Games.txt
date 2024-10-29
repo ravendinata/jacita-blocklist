@@ -62,3 +62,4 @@
 0.0.0.0 granny-online.org
 0.0.0.0 snokido.com
 0.0.0.0 snokido.fr
+0.0.0.0 hole-io.com
