@@ -63,3 +63,4 @@
 0.0.0.0 snokido.com
 0.0.0.0 snokido.fr
 0.0.0.0 hole-io.com
+0.0.0.0 frivclassic.com
