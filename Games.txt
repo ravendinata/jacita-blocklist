@@ -64,3 +64,7 @@
 0.0.0.0 snokido.fr
 0.0.0.0 hole-io.com
 0.0.0.0 frivclassic.com
+0.0.0.0 slopeonline.online
+0.0.0.0 eaglercraft.com
+0.0.0.0 eaglercraft.app
+0.0.0.0 frag-net.com
