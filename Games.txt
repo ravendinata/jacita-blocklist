@@ -68,3 +68,4 @@
 0.0.0.0 eaglercraft.com
 0.0.0.0 eaglercraft.app
 0.0.0.0 frag-net.com
+0.0.0.0 slowroads.io
