@@ -43,7 +43,6 @@
 0.0.0.0 play.google.com
 0.0.0.0 garena.com
 0.0.0.0 itch.io
-0.0.0.0 itch.io
 0.0.0.0 itch.zone
 0.0.0.0 orteil.dashnet.org
 0.0.0.0 mountjustin.github.io
