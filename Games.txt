@@ -71,3 +71,4 @@
 0.0.0.0 slowroads.io
 0.0.0.0 playroms.net
 0.0.0.0 totallyscience.co
+0.0.0.0 freeslots.com
