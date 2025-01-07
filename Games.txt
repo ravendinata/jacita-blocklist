@@ -78,3 +78,4 @@
 0.0.0.0 webmulator.com
 0.0.0.0 neptunjs.xyz
 0.0.0.0 gba.js.org
+0.0.0.0 rollerballer.com
