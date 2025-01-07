@@ -75,3 +75,5 @@
 0.0.0.0 hoodamath.com
 0.0.0.0 1v1.lol
 0.0.0.0 pokemonshowdown.com
+0.0.0.0 webmulator.com
+0.0.0.0 neptunjs.xyz
