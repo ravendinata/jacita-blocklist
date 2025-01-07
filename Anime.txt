@@ -1,3 +1,6 @@
 0.0.0.0 tokuzilla.net
 0.0.0.0 tokuzl.net
 0.0.0.0 kingofshojo.com
+0.0.0.0 vkspeed.com
+0.0.0.0 vkcdn5.com
+0.0.0.0 aniwave.uk
