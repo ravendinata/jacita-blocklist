@@ -71,3 +71,7 @@
 0.0.0.0 playroms.net
 0.0.0.0 totallyscience.co
 0.0.0.0 freeslots.com
+0.0.0.0 now.gg
+0.0.0.0 hoodamath.com
+0.0.0.0 1v1.lol
+0.0.0.0 pokemonshowdown.com
