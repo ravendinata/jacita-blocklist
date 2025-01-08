@@ -4,3 +4,4 @@
 0.0.0.0 vkspeed.com
 0.0.0.0 vkcdn5.com
 0.0.0.0 aniwave.uk
+0.0.0.0 jeniusplay.com
