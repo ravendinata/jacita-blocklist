@@ -9,3 +9,4 @@
 0.0.0.0 lk21static.buzz
 0.0.0.0 lk21official.my
 0.0.0.0 idlix.asia
+0.0.0.0 hurawatch-official.com
