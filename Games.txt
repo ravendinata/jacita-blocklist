@@ -81,3 +81,5 @@
 0.0.0.0 rollerballer.com
 0.0.0.0 emubrowser.com
 0.0.0.0 slope3.com
+0.0.0.0 snowrider3d.com
+0.0.0.0 snowrider3d.info
