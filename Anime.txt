@@ -11,3 +11,4 @@
 0.0.0.0 idlix.asia
 0.0.0.0 hurawatch-official.com
 0.0.0.0 kisskh.co
+0.0.0.0 vidio.com
