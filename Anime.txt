@@ -17,3 +17,4 @@
 0.0.0.0 asiancrush.com
 0.0.0.0 gogoanimes.fi
 0.0.0.0 myasiantv.es
+0.0.0.0 nerinyan.moe
