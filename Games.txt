@@ -83,3 +83,5 @@
 0.0.0.0 slope3.com
 0.0.0.0 snowrider3d.com
 0.0.0.0 snowrider3d.info
+0.0.0.0 playhop.com
+0.0.0.0 permainan.co.id
