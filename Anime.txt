@@ -14,3 +14,5 @@
 0.0.0.0 vidio.com
 0.0.0.0 burgundytoday.com
 0.0.0.0 cineby.app
+0.0.0.0 asiancrush.com
+0.0.0.0 gogoanimes.fi
