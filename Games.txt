@@ -86,3 +86,4 @@
 0.0.0.0 playhop.com
 0.0.0.0 permainan.co.id
 0.0.0.0 freeslots.com
+0.0.0.0 subway-surfers.me
