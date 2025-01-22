@@ -85,3 +85,4 @@
 0.0.0.0 snowrider3d.info
 0.0.0.0 playhop.com
 0.0.0.0 permainan.co.id
+0.0.0.0 freeslots.com
