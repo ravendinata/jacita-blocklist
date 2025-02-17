@@ -89,3 +89,4 @@
 0.0.0.0 subway-surfers.me
 0.0.0.0 osumania.com
 0.0.0.0 miniplay.com
+0.0.0.0 slopeio.org
