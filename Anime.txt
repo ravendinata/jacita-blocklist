@@ -20,3 +20,4 @@
 0.0.0.0 nerinyan.moe
 0.0.0.0 catboy.best
 0.0.0.0 xbato.com
+0.0.0.0 asuracomic.net
