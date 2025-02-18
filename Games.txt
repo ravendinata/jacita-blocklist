@@ -90,3 +90,5 @@
 0.0.0.0 osumania.com
 0.0.0.0 miniplay.com
 0.0.0.0 slopeio.org
+0.0.0.0 tennismania.com
+0.0.0.0 s1tennismania.vshcdn.net
