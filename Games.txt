@@ -95,3 +95,4 @@
 0.0.0.0 rhythm-plus.com
 0.0.0.0 osu-web.com
 0.0.0.0 mazean.com
+0.0.0.0 blockblast.org
