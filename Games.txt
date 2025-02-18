@@ -92,3 +92,4 @@
 0.0.0.0 slopeio.org
 0.0.0.0 tennismania.com
 0.0.0.0 s1tennismania.vshcdn.net
+0.0.0.0 rhythm-plus.com
