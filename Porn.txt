@@ -1,0 +1,6 @@
+0.0.0.0 123av.com
+0.0.0.0 123av.ws
+0.0.0.0 njav.tv
+0.0.0.0 1av.to
+0.0.0.0 javmost.cx
+0.0.0.0 javmost.com
