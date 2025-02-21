@@ -96,3 +96,4 @@
 0.0.0.0 osu-web.com
 0.0.0.0 mazean.com
 0.0.0.0 blockblast.org
+0.0.0.0 www.101soundboards.com
