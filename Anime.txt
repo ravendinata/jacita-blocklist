@@ -21,3 +21,4 @@
 0.0.0.0 catboy.best
 0.0.0.0 xbato.com
 0.0.0.0 asuracomic.net
+0.0.0.0 youku.tv
