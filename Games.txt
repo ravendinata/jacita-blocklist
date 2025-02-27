@@ -98,3 +98,4 @@
 0.0.0.0 blockblast.org
 0.0.0.0 www.101soundboards.com
 0.0.0.0 play.unity.com
+0.0.0.0 historyspot.cc
